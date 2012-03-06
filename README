@@ -1,1 +1,8 @@
 seng3010/20 repo
+
+ashleeyziva 06/03/2012 wrote:
+To setup git repo with your local pc:
+	1. Install eclipse if you don't already have it (http://eclipse.org/downloads/)
+	2. Install the egit plugin for eclipse (go to help>install new software and add repository  http://download.eclipse.org/egit/updates)
+	3. Restart eclipse and go to Window > Open Perspective > github (click others and search for github if it isn't listed)
+	4. On the leftmost frame, click clone existing repo
