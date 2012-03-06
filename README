@@ -23,5 +23,10 @@ To commit to the repository:
 		AshBryanShadiPeter and select 'commit'
 	3. ADD A COMMIT MESSAGE! A short description of what you've done
 		in case any of us want to look at your work or you look back
-		on it later.
-	4.
+		on it later. Press commit.
+	4. Your commits will be saved locally but to ensure we all get the
+		changes YOU NEED TO PUSH YOUR COMMITS THROUGH. Right click on 
+		AshBryanShadiPeter and select "push to upstream".
+		
+To ensure you are viewing the latest code, after saving locally right 
+click on AshBryanShadiPeter and select 'fetch from upstream'.
